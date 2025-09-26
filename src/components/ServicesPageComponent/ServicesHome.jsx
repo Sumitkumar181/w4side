@@ -167,7 +167,7 @@ export default function ServicesHome() {
             <div className="max-w-full mx-auto px-4 sm:px-6 lg:px-10">
 
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-[inter] font-semibold text-[#1398c8]">
-                    Newtonity is A Product
+                   W4side is A Product
                 </h2>
 
 

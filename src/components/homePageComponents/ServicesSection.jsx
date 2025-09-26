@@ -5,7 +5,7 @@ import serviceBg2 from "../../assets/HomePageImage/servicesBg2.jpg";
 
 
 const line1 = "Work one step smarter and efficiently".split("");
-const line2 = "with Newtonity Technology".split("");
+const line2 = "with W4SIDE TECHNOLOGIES".split("");
 
 
 const cards = [
@@ -53,7 +53,7 @@ export default function ServicesSection() {
                 style={{ backgroundImage: `url(${serviceBg4})` }}
             >
                 
-                <div className="absolute inset-0 bg-gradient-to-r from-[#0c2d44]/80 to-[#1398c8]/70" />
+                <div className="absolute inset-0 bg-gradient-to-r from-[#000000]/80 to-[#000000]/70" />
 
                 
                 <div className="relative z-10 px-6 sm:px-12 lg:px-20">
